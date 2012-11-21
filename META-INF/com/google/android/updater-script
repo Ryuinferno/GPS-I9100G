@@ -1,4 +1,5 @@
-ui_print("GPS restore for GT-I9100G");
+ui_print("GPS PATCH for GT-I9100G");
+ui_print("This is a worldwide GPS patch.");
 ui_print("by Ryuinferno @ XDA 2012");
 
 ui_print("Mounting system partition...");

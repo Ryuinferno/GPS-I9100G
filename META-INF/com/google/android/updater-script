@@ -1,0 +1,14 @@
+ui_print("GPS restore for GT-I9100G");
+ui_print("by Ryuinferno @ XDA 2012");
+
+ui_print("Mounting system partition...");
+run_program("/sbin/mount", "/system");
+delete("/system/etc/sirfgps.conf");
+delete("/system/etc/gps.conf");
+
+ui_print("Replacing GPS configuration...");
+package_extract_dir("system", "/system");
+
+ui_print("Unmounting system partition...");
+run_program("/sbin/umount", "/system");
+ui_print("Patch done!");

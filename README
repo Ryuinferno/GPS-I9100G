@@ -1,0 +1,3 @@
+This patch can be used on any GT-I9100G (Samsung Galaxy SII) regardless of your location (no need to modify ntp servers). The first fix after a reboot may take up to a minute, but subsequent fixes require only seconds! The device will also lock onto 7-9 satellites (3-4 before patch), which provides accuracy up to 5m. For more info, please refer to the thread in xda-developers.
+
+Original thread: http://forum.xda-developers.com/showthread.php?t=1817558

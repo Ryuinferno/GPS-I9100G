@@ -2,14 +2,14 @@ Manifest-Version: 1.0
 Created-By: 1.0 (Android SignApk)
 
 Name: META-INF/com/google/android/updater-script
-SHA1-Digest: oe8bkOReYJCzrbW2pAvjI5/KyGE=
+SHA1-Digest: 4ydXTKAUND0/LtaHT7sqs7SV6G0=
 
 Name: system/etc/gps.conf
-SHA1-Digest: jzpWXbpT3gtWD7dd7C+/d08sGMo=
+SHA1-Digest: ODl+Nf0gXpBR/UzQPaIXcb/ZJtE=
 
 Name: META-INF/com/google/android/update-binary
 SHA1-Digest: sj/n9mYBTBsdHqKMyGzhULHGUFA=
 
 Name: system/etc/sirfgps.conf
-SHA1-Digest: v4qPZKTNs66nDzy63djikslu1Zc=
+SHA1-Digest: qcBgPLteeYrUbq/6NSuPtux8Ah4=
 
